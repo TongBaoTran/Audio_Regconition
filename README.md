@@ -11,4 +11,5 @@ This project is a part of my Bachelor's thesis in Deep Learning: Transfer Learni
  I have included here the sample model file and label file for the dataset ESC-50:ESC-50: Dataset for Environmental Sound Classification. The model types have two types: Single or Multiple. Single model Type will give the one prediction with the highest probability, whereas the "Multiple" will give several possible predictions for the selected sound. 
 
  # Running the project
- You can download the repository, create a virtual enviroment in which you install necessary libraries such as Numpy, Pandas, PyAudio, Matplotlib, etc, and run the application.
+ You can download the repository, create a virtual enviroment in which you install necessary libraries such as Numpy, Pandas, PyAudio, Matplotlib, etc, and run the application. 
+ I include the Demonstration.mkv file to illustrate how the application looks like and works.
