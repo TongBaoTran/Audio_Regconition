@@ -1,7 +1,7 @@
 # Audio_Regconition
 ![Sound Classification App](https://github.com/TongBaoTran/Audio_Regconition/assets/39885305/54843d79-addf-4859-a107-b465b6a68032)
 
-
+Demonstration of this application: https://www.youtube.com/watch?v=m9JKRSGz5VU
 This project is a part of my Bachelor's thesis in Deep Learning: Transfer Learning and its application in Image and Audio Recognition. 
  You can find the full report of my thesis here: https://drive.google.com/file/d/1lGAB5jtpnha-mk8VDiH_Es_58E-93VZ7/view?usp=drive_link
  The datasets and models trained in the thesis can be found on my Kaggle account: https://www.kaggle.com/trantong/code
